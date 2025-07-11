@@ -1,2 +1,14 @@
-# portafolio-backend
-Este repositorio contiene el backend de mi portafolio personal, desarrollado con [especifica el stack: Node.js, Express, Django, etc.]. Provee la lógica del servidor, manejo de datos, autenticación (si aplica) y endpoints API que alimentan la interfaz de usuario del portafolio.
+🛠️ Backend del Portafolio Personal
+Este repositorio contiene el backend simple que da soporte a mi portafolio personal. Expone una API REST para servir datos como proyectos, habilidades, experiencia y otra información relevante, todo de forma pública (sin autenticación).
+
+Características principales:
+
+API ligera y mantenible
+
+Endpoints REST para diferentes secciones del portafolio
+
+Tecnologías utilizadas:
+
+Node.js + Express.
+
+Base de datos MongoDb
